@@ -8,6 +8,7 @@ header {
 }
 p {
 	position: center;
+	font-size: 25px;
 }
 #pages {
 	font-weight: bold;
