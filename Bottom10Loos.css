@@ -1,0 +1,26 @@
+h1 {
+	color: rgba(188, 212, 222, 1);
+	text-align: center;
+	font: verdana;
+}
+header {
+	background-color: rgba(165, 204, 209, 1);
+	padding: 10px 0px 10px 0px;
+}
+#pages {
+	color: rgba(224, 152, 145, 1);
+	font-weight: bold;
+	font: verdana;
+}
+#map {
+	position: center;
+}
+li {
+	display: inline;
+	padding: 0px 20px 0px 20px;
+	font-size: 20;
+}
+body {
+	text-align: center;
+	background-color: rgba(232, 185, 171, 1);
+}
