@@ -30,15 +30,35 @@ body {
 p {
 	padding: 40px 0px 40px 0px;
 }
-h1 {
-	padding: 30px 0px 0px 0px;
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px;  
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 12px; 
+    margin-bottom: 16px; 
+    resize: vertical;
 }
-h2 {
-	padding: 100px 0px 5px 0px;
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
 }
-p {
-	font-size: 16px;
+
+input[type=submit]:hover {
+    background-color: #45a049;
 }
-.name {
-	padding: 10px 0px 0px 0px;
+
+.container {
+    border-radius: 5px;
+    background-color: white;
+    padding: 20px;
 }
+
+
+

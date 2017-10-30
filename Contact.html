@@ -14,22 +14,21 @@
 	<h1>Contact Us</h1>
 </header>
 <body>
-<div class="container">  
-  <form id="contact" action="" method="post">
-    <h2>Quick Contact</h2>
-    <p>Let us know about your top 10 and bottom 10 loo's in London!</p>
-    <fieldset>
-      <input id="name" placeholder="Your name" type="text" tabindex="1" required autofocus>
-    </fieldset>
-    <fieldset>
-      <input placeholder="Your Email Address" type="email" tabindex="2" required>
-    </fieldset>
-    <fieldset>
-      <textarea placeholder="Type your Message Here...." tabindex="5" required></textarea>
-    </fieldset>
-    <fieldset>
-      <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
-    </fieldset>
+<div class="container">
+	<p1> Thanks for visiting. Let us know if you have any suggestions for us!</p1>
+  	<form action="/action_page.php">
+
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+    <label for="subject">Comments</label>
+    <textarea id="subject" name="subject" placeholder="Suggestions.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+
   </form>
-</div>	
+</div>
 </body>
