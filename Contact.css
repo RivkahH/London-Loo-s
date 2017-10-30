@@ -6,9 +6,10 @@ h1 {
 header {
 	padding: 10px 0px 5px 0px;
 }
-p {
+h2 {
 	position: center;
-	font-size: 25px;
+	font-size: 30px;
+    margin-bottom: 20px;
 }
 #pages {
 	font-weight: bold;
@@ -25,10 +26,6 @@ li {
 }
 body {
 	text-align: center;
-
-}
-p {
-	padding: 40px 0px 40px 0px;
 }
 input[type=text], select, textarea {
     width: 100%; 
