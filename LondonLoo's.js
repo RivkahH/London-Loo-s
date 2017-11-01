@@ -9,7 +9,3 @@ function name(xyz){
 	alert(xyz);
 
 }
-
-
-
-
