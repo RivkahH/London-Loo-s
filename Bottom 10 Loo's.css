@@ -1,0 +1,44 @@
+h1 {
+	text-align: center;
+	font: verdana;
+	padding: 10px 0px 0px 0px;
+}
+header {
+	padding: 10px 0px 5px 0px;
+}
+p {
+	position: center;
+	font-size: 25px;
+}
+#pages {
+	font-weight: bold;
+	font: verdana;
+	color: black;
+}
+.map {
+	width: 488%;s
+	height: 70%;
+	border-style: solid;
+	border-color: black;
+}
+#intro {
+	background: white;
+}
+li {
+	display: inline;
+	padding: 0px 20px 0px 20px;
+	font-size: 20;
+}
+body {
+	text-align: center;
+
+}
+p {
+	text-align: center;
+	padding: 40px 0px 40px 0px;
+	margin:0 auto;
+}
+input [type=text]: focus {
+	width: 50;
+}
+
