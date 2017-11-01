@@ -2,10 +2,10 @@
     header {
       text-align: center;
       background-size: cover;
-      color: white;
+      color: black;
     }
     a {
-      color: white;
+      color: black;
     }
     a {
       text-align: center;
@@ -26,13 +26,11 @@
     }
     ul {
       padding: 10px;
-      background: rgba(0,0,0,0.5);
       text-align: center;
     }
     li {
      display: inline;
   padding: 0px 20px 0px 20px;
-  font-size: 20;
     }
 
     input[type=text] {
